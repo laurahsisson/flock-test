@@ -1,0 +1,35 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Flock/FlockControl.cs">
+    <Files>
+      <File FileName="Assets/Flock/OptionControl.cs" Line="23" Column="52" />
+      <File FileName="Assets/Flock/FlockControl.cs" Line="136" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Flock" expanded="True">
+              <Node name="FlockControl.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>//xForce.GetSignal(getHidden());</Value>
+          <Value>//yForce.GetSignal(getHidden());</Value>
+          <Value> //nn.getXForce();</Value>
+          <Value>//nn.getYForce();</Value>
+          <Value>//Mathf.Atan2(y,x)*Mathf.Rad2Deg;</Value>
+          <Value>1 / (1 + Mathf.Exp(value)) + .5f;</Value>
+          <Value>value</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
